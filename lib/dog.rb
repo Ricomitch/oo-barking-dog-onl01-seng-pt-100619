@@ -2,7 +2,7 @@
 class Dog
   
   
-  lassie = Dog.new
+lassie = Dog.new
 lassie.name = "Lassie"
 end
 end 
